@@ -74,6 +74,10 @@ dependencies {
     // Mockito
     testImplementation "org.mockito:mockito-inline:$mockitoVersion"
 
+    // Swiperefreshlayout
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+
+
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
